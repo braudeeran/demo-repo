@@ -25,7 +25,6 @@ if "my_li" not in st.session_state:
 
 #     df = pd.DataFrame.from_dict(my_list)
 
-#     st.dataframe(df)
 
 
 
